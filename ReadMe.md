@@ -1,3 +1,7 @@
+**Update: This bug is fixed.**
+- Use Next.js 12.1+. It may be fixed in earlier versions, but 12.1+ is what I have tested.
+- Install the NPM package `sharp`: [docs](https://nextjs.org/docs/messages/sharp-missing-in-production).
+
 # Next.js big image OOM
 
 This is a repro for Next.js bug: https://github.com/vercel/next.js/issues/24052
